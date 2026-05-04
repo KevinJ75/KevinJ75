@@ -3,7 +3,7 @@
 Software/data engineer focused on cloud-native data pipelines, ML systems, and AI integration.
 
 ## What I work on
-- 🛠️ **Day job:** Azure-based data integration — Functions, Service Bus, SQL MI, BizTalk migrations
+- 🛠️ **Day job:** AI-Focused Software Development — Functions, Service Bus, SQL MI, BizTalk migrations
 - 🎓 **Studying:** M.S. in AI (statistics, regression analysis, ML systems)
 - 🔬 **Exploring:** MLOps, RAG systems, multi-cloud data pipelines (GCP/AWS)
 
