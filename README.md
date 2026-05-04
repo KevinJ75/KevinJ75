@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Kevin 👋
 
-<!--
-**KevinJ75/KevinJ75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software/data engineer focused on cloud-native data pipelines, ML systems, and AI integration.
 
-Here are some ideas to get you started:
+## What I work on
+- 🛠️ **Day job:** Azure-based data integration — Functions, Service Bus, SQL MI, BizTalk migrations
+- 🎓 **Studying:** M.S. in AI (statistics, regression analysis, ML systems)
+- 🔬 **Exploring:** MLOps, RAG systems, multi-cloud data pipelines (GCP/AWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+**Languages:** Python, C#, SQL  
+**Cloud:** Azure (deep), GCP & AWS (building)  
+**ML/Data:** Pandas, NumPy, Scikit-learn, MLflow, FastAPI  
+**Infra:** Docker, Airflow, Azure Service Bus, BigQuery  
+**Visualization:** Streamlit, Plotly  
+
+## Featured Projects
+- [TaxDocumentRAG](https://github.com/KevinJ75/TaxDocumentRAG) — RAG pipeline for tax document Q&A using LLMs
+- ML Experiment Tracker — MLflow + Scikit-learn end-to-end deployment *(coming soon)*
+- Marketing Analytics Pipeline — Airflow + BigQuery + Streamlit dashboard *(coming soon)*
+
+## Currently learning
+- GCP Vertex AI & AWS SageMaker for model deployment
+- Apache Airflow for pipeline orchestration
+- MLflow experiment tracking and model registry workflows
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/kevinjoseph75/)
