@@ -1,10 +1,10 @@
-# Hi, I'm Kevin 👋
+# Hey, I'm Kevin!
 
-Software/data engineer focused on cloud-native data pipelines, ML systems, and AI integration.
+I'm a software/AI engineer focused on cloud-native data pipelines, ML systems, and AI integration.
 
 ## What I work on
-- 🛠️ **Day job:** AI-Focused Software Development — Functions, Service Bus, SQL MI, BizTalk migrations
-- 🎓 **Studying:** M.S. in AI (statistics, regression analysis, ML systems)
+- 🛠️ **Day job:** AI-Focused Software Development — Functions, Python, LLMs, APIs
+- 🎓 **Studying:** M.S. in AI (statistics, ML systems)
 - 🔬 **Exploring:** MLOps, RAG systems, multi-cloud data pipelines (GCP/AWS)
 
 ## Stack
