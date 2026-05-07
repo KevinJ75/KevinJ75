@@ -3,7 +3,7 @@
 Software engineer focused on cloud-native data systems, AI integration, and machine learning.
 
 ## What I work on
-- 🛠️ **Day job:** Building AI-powered tools at NCR Atleos — computer vision, Claude-based agents, Splunk automation
+- 🛠️ **Employment:** Building AI-powered tools at NCR Atleos — computer vision, Claude-based agents, Splunk automation
 - 🎓 **Studying:** M.S. in Artificial Intelligence @ Texas A&M (expected May 2028)
 - 🔬 **Exploring:** MLOps, RAG pipelines, model deployment
 
