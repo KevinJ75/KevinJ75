@@ -15,7 +15,7 @@ Software engineer focused on cloud-native data systems, AI integration, and mach
 
 ## Featured Projects
 - 🔍 [TaxDocumentRAG](https://github.com/KevinJ75/TaxDocumentRAG) — RAG pipeline for IRS tax publications using LangChain + ChromaDB + Claude
-- 📡 [BluStick](https://github.com/KevinJ75/CSCE483-BluStick) — Mobile app for real-time WiFi/Bluetooth signal tracking via ESP32 microcontrollers
+- 📡 [BluStick](https://github.com/KevinJ75/CSCE483-BluStick) — Mobile app for real-time WiFi/Bluetooth signal tracking via ESP32 microcontrollers (Senior Design Project)
 - ⚖️ [Load Balancer](https://github.com/KevinJ75/CSCE412Project3) — C++ load balancer simulation
 
 ## Currently building
