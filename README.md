@@ -1,6 +1,6 @@
 # Hey, I'm Kevin!
 
-Software engineer focused on cloud-native data systems, AI integration, and machine learning.
+Software engineer focused on AI integration, cloud-native data systems, and machine learning.
 
 ## What I work on
 - 🛠️ **Employment:** Building AI-powered tools at NCR Atleos — computer vision, Claude-based agents, Splunk automation
