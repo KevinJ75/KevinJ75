@@ -15,6 +15,7 @@ Software engineer focused on AI integration, cloud-native data systems, and mach
 
 ## Featured Projects
 - 🔍 [TaxDocumentRAG](https://github.com/KevinJ75/TaxDocumentRAG) — RAG pipeline for IRS tax publications using LangChain + ChromaDB + Claude
+- 🫀 [Heart Failure Readmission](https://github.com/KevinJ75/heart-failure-readmission) — Calibrated logistic regression predicting 30-day HF readmission, deployed as an interactive [Streamlit app](https://heart-failure-readmission.streamlit.app/) with per-patient explanations
 - 📡 [BluStick](https://github.com/KevinJ75/CSCE483-BluStick) — Mobile app for real-time WiFi/Bluetooth signal tracking via ESP32 microcontrollers (Senior Design Project)
 - ⚖️ [Load Balancer](https://github.com/KevinJ75/CSCE412Project3) — C++ load balancer simulation
 
